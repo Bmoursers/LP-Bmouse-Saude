@@ -35,7 +35,7 @@ export const Section1 = () => {
         </div>
       </section>
 
-      {/* desktop ssds*/}
+      {/* desktop ssdsssd*/}
       <section
         id="home"
         className="bg-header hidden lg:flex  items-center justify-center lg:py-0  lg:px-0 lg:h-[70vh]"
